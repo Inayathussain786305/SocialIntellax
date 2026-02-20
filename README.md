@@ -1,7 +1,7 @@
-# SocialIntellax
+
 # ⚡ SocialIntellax
 
-**Advanced OSINT & Threat Intelligence Framework**  
+# Advanced OSINT & Threat Intelligence Framework 
 Built for Ethical Hacking, Cybersecurity Research, and Digital Footprinting.
 
 
@@ -81,7 +81,7 @@ python3 socialintellax.py
 📦 Install via Virtual Environment (Recommended)
 
 # Clone the repo
-git clone https://github.com/yourusername/socialintellax.git
+git clone https://github.com/inayathussain786305/socialintellax.git
 cd socialintellax
 
 # Create virtual environment
