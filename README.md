@@ -137,12 +137,7 @@ Contributions, feature suggestions, and pull requests are welcome.
 If you're an OSINT researcher or cybersecurity enthusiast — feel free to collaborate.
 📫 Contact
 
-Inayat Hussain Chohan
-Email: your_email@example.com
-Location: Ghotki, Sindh, Pakistan 🇵🇰
-LinkedIn: linkedin.com/in/inayatchohan
-Medium: medium.com/@yourusername
-⭐ Credits
+# Inayat Hussain Chohan
 
 This framework was built through strategic use of automation, intelligent assistance, and deep manual engineering.
 
